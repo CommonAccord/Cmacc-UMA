@@ -1,4 +1,4 @@
-DemoDocName=UMA/2013/2_2_1.md
+DemoDocName=UMA/2013/2_2.md
 
 Site-Name=Cmacc-UMA
 
