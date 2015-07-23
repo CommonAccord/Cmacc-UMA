@@ -2,7 +2,7 @@ DemoDocName=UMA/2013/2_2_1.md
 
 Site-Name=Cmacc-UMA
 
-Name.CommonAccord.Org=UMA.CommonAccord.Org
+Name.CommonAccord.Org=cmacc-uma.herokuapp.com
 
 Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p>{Table.sec}
 
