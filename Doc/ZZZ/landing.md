@@ -1,4 +1,4 @@
-DemoDocName=UMA/2013/2_2.md
+DemoDocName=UMA/2013/2.md
 
 Site-Name=Cmacc-UMA
 
@@ -12,7 +12,7 @@ Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{Twitt
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for discussion of UMA legal framework.
+Introduction.sec=This website is a sketch of some UMA legal provisions.  Just a sketch, non-authoritative, probably wrong.
 
 FormDoc.sec=When you click on the first link below, you will see a base document.  It is, of course, only an example, intended to be adapted and extended. 
 
