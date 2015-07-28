@@ -14,6 +14,8 @@ IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{Docum
 
 Introduction.sec=This website is for discussion of UMA legal framework.
 
-FormDoc.sec=When you click on the first link below, you will see a base document.</a>.  It is, of course, only an example, intended to be adapted and extended. 
+FormDoc.sec=When you click on the first link below, you will see a base document.  It is, of course, only an example, intended to be adapted and extended. 
+
+DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
 
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
