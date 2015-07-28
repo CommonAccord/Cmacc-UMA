@@ -1,6 +1,18 @@
 Doc.Title=AP-RP-RPA Agreement
 
 
+Intro.Parties.List={Intro.Parties.List.1-3}
+
+End.Sign.sec={End.Sign.List-3}
+
+
+P1.Handle={Authorizing_Party}
+
+P2.Handle={Requesting_Party}
+
+P3.Handle={Requesting_Party_Agent}
+
+
 1.Ti=Incorporation of UMA 2013
 
 1.1.sec=The {parties} incorporate by reference the Binding Obligations on User-Managed Access (UMA) Participants, dated _____ (the "{UMA_Terms}").
@@ -37,3 +49,9 @@ Doc.Title=AP-RP-RPA Agreement
 =[Z/ol/5]
 
 UMA_Terms=<font color="green">UMA Terms</font>
+
+Authorizing_Party=<font color="green">Authorizing Party</font>
+
+Requesting_Party=<font color="green">Requesting Party</font>
+
+Requesting_Party_Agent=<font color="green">Requesting Party Agent</font>

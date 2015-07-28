@@ -12,6 +12,6 @@ Name.First=Samuel
 
 Name.Last=Hardy
 
-Name.Full={m-}{Name.FL}{-m}
+Name.Full={Name.FL}
 
 PageName=U/id/samuel_hardy
