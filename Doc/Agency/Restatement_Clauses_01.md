@@ -44,12 +44,12 @@ Clauses=
 
 Def.Sec=<b>Definitions</b><ul type="none"><li>{Def.Agent}<li>{Def.Party}<li>{Def.Principal}<li>{Def.Restatement_of_Agency}<li>{Def.Third_Party}</ul>
 
-ALI.RoA.Adopt.Sec=<b>{ALI.RoA.Adopt.Ti}</b><br>{ALI.RoA.Adopt.sec}
+Adopt.Sec=<b>{Adopt.Ti}</b><br>{Adopt.sec}
 
-ALI.RoA.Adopt.Ti=Adoption of the {Restatement_of_Agency}
+Adopt.Ti=Adoption of the {Restatement_of_Agency}
 
-ALI.RoA.Adopt.sec=By adopting {this_Agreement}, {P1.Handle} manifests that {P2.Handle} shall act on {P1.Handle}'s behalf as {Agent} and {P2.Handle} manifests its assent to act as {Agent} for {P1.Handle}.  The {Parties} adopt the {Restatement_of_Agency} as a framework for the definition and interpretation of their relationship as {Principal} and {Agent} and as guidance for the interpretation of that relationship vis-à-vis other persons, including {Third_Parties}.  The {Parties} intend that this section satisfy the requirements Section 1.01 of the {Restatement_of_Agency}. 
+Adopt.sec=By adopting {this_Agreement}, {P1.Handle} manifests that {P2.Handle} shall act on {P1.Handle}'s behalf as {Agent} and {P2.Handle} manifests its assent to act as {Agent} for {P1.Handle}.  The {Parties} adopt the {Restatement_of_Agency} as a framework for the definition and interpretation of their relationship as {Principal} and {Agent} and as guidance for the interpretation of that relationship vis-à-vis other persons, including {Third_Parties}.  The {Parties} intend that this section satisfy the requirements Section 1.01 of the {Restatement_of_Agency}. 
 
 Notes=Shall the comments, reporters notes, annotations and other materials be included?
 
-Model.Root=<b>Example</b><ol><li>{Def.Sec}<li>{ALI.RoA.Adopt.Sec}</ol>
+Model.Root=<b>Example</b><ol><li>{Def.Sec}<li>{Adopt.Sec}</ol>
