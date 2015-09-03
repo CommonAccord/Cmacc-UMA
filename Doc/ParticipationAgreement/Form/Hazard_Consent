@@ -1,6 +1,6 @@
-P1.ActivityStatus.Voting/Non-Voting={P1.ActivityStatus.Voting}
+P1.ActivityStatus.Voting/Non-Voting={P1.ActivityStatus.Non-Voting}
 
-P1.Authorized.Yes/No={P1.Authorized.No}
+P1.Authorized.Yes/No={P1.Authorized.Yes}
 
 P1.IPR.Agree.Yes/No={P1.IPR.Agree.Yes}
 
