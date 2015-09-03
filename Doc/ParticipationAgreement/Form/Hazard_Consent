@@ -8,8 +8,8 @@ Capta.Image=3457
 
 Capta.Response=3457
 
-P1.=[U/id/hazardj]
+P1.=[?https://raw.githubusercontent.com/HazardJ/Cmacc_ID/master/me.md]
 
 P1.Principal.=[U/id/acme_incorporated]
 
-=[ParticipationAgreement/Form/GPA_UMA_V01.md]
+=[ParticipationAgreement/Form/GPA_UMA_V01.md]  
