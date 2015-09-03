@@ -1,6 +1,6 @@
 0.sec=Based on agency law and the analysis above, here is a list of the “minimum viable product” requirements for a technical protocol involving a Principal, an Agent, and a Third Party. The endpoints or parameters would be:
 
-1.sec=a human-readable (PDF/HTML) version of the applicable contract (ROI Form?),
+1.=[Agency/UMA-Restatement_MVP_HumanReadable.md]
 
 2.sec=agent URI or human-readable means to introduce the agent,
 
