@@ -1,23 +1,3 @@
-PersonalInformation.List={FullName} ; {EMail}
-
-OtherInformation.List={BrowserHeader}
-
-3rdPartySharing=No
-
-SensitiveDataCollected=No
-
-RequestsForMoreInformation=privacy@BobsCompendiumOfInterestingThings.com
-
-PrivacyPolicy=BobsCompendiumOfInterestingThings.com/privacy
-
-Purpose=The information described below was collected to ensure the integrity and transparency of the comments on BobsCompendiumOfInterestingThings.com.
-
-/=[Model_Form_1]
-
-
-
-Model_Form_1:
-
 InformationCollected=Personal Information collected from {A.Name.Full}: {PI.List} ;  Other Information from {A.Name.Full}: {OI.List} 
 
 FullName=Full Name
@@ -72,4 +52,4 @@ Ti={B.Name.Full} Receipt Issued to {A.Name.Full}
 
 SystemWide: - with variations for different languages and data formats. (Can be machine generated.)
 
-2015-06-14-14:35=14 July 2015, at 2:35 p.m.
+2015-06-14-14:35=14 July 2015, at 2:35 p.m.  
