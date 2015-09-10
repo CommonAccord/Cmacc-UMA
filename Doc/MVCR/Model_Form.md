@@ -50,6 +50,6 @@ Ti={B.Name.Full} Receipt Issued to {A.Name.Full}
 =[Z/ol/s3]
 
 
-SystemWide: - with variations for different languages and data formats. (Can be machine generated.)
+Note=Can be system wide: - with variations for different languages and data formats. (Can be machine generated.)
 
-2015-06-14-14:35=14 July 2015, at 2:35 p.m.  
+2015-06-14-14:35=14 July 2015, at 2:35 p.m.
