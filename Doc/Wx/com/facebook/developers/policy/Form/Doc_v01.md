@@ -12,7 +12,7 @@ ProtectData.=[Wx/com/facebook/developers/policy/Sec/ProtectData_v01.md]
 
 ComplyLaw.=[Wx/com/facebook/developers/policy/Sec/ComplyLaw_v01.md]
 
-Definition.=[Wx/com/facebook/developers/policy/Sec/Definitions_v01.md]
+Define.=[Wx/com/facebook/developers/policy/Sec/Define_v01.md]
 
 1.Sec={Quality.Sec}
 
@@ -388,7 +388,7 @@ Definition.=[Wx/com/facebook/developers/policy/Sec/Definitions_v01.md]
 
 16.=[Z/ol/s22]
 
-17.Sec={Definition.Sec}
+17.Sec={Define.Sec}
 
 =[Z/ol/17]
 
